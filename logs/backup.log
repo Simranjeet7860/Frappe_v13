@@ -1,0 +1,1370 @@
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221121_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-21 12:00:06.814171
+Config  : ./simon.org/private/backups/20221121_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221121_120003-simon_org-database.sql.gz         1.2MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221121_180002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-21 18:00:03.703103
+Config  : ./simon.org/private/backups/20221121_180002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221121_180002-simon_org-database.sql.gz         1.2MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221122_120002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-22 12:00:05.154931
+Config  : ./simon.org/private/backups/20221122_120002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221122_120002-simon_org-database.sql.gz         1.2MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221123_060004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-23 06:00:06.082049
+Config  : ./simon.org/private/backups/20221123_060004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221123_060004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221123_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-23 12:00:04.569841
+Config  : ./simon.org/private/backups/20221123_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221123_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221124_060002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-24 06:00:05.057553
+Config  : ./simon.org/private/backups/20221124_060002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221124_060002-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221124_120002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-24 12:00:04.276876
+Config  : ./simon.org/private/backups/20221124_120002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221124_120002-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221125_120005-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-25 12:00:10.695909
+Config  : ./simon.org/private/backups/20221125_120005-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221125_120005-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221125_120010-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-11-25 12:00:17.834384
+Config  : ./test.com/private/backups/20221125_120010-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221125_120010-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221127_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-27 12:00:12.257200
+Config  : ./simon.org/private/backups/20221127_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221127_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221125_120010-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221125_120010-test_com-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221127_120012-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-11-27 12:00:19.808143
+Config  : ./test.com/private/backups/20221127_120012-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221127_120012-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221128_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-28 12:00:07.430453
+Config  : ./simon.org/private/backups/20221128_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221128_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221127_120012-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221127_120012-test_com-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221128_120007-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-11-28 12:00:09.844427
+Config  : ./test.com/private/backups/20221128_120007-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221128_120007-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221128_180003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-28 18:00:09.159451
+Config  : ./simon.org/private/backups/20221128_180003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221128_180003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221127_120012-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221128_120007-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221128_120007-test_com-database.sql.gz is recent
+File ./test.com/private/backups/20221127_120012-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221128_180009-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-11-28 18:00:15.633893
+Config  : ./test.com/private/backups/20221128_180009-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221128_180009-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221129_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-29 12:00:11.105492
+Config  : ./simon.org/private/backups/20221129_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221129_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221128_180009-test_com-database.sql.gz is recent
+File ./test.com/private/backups/20221128_180009-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221128_120007-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221128_120007-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221129_120011-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-11-29 12:00:17.982315
+Config  : ./test.com/private/backups/20221129_120011-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221129_120011-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221130_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-11-30 12:00:11.445586
+Config  : ./simon.org/private/backups/20221130_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221130_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221128_180009-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221129_120011-test_com-database.sql.gz is recent
+File ./test.com/private/backups/20221128_180009-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221129_120011-test_com-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221130_120011-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-11-30 12:00:18.531163
+Config  : ./test.com/private/backups/20221130_120011-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221130_120011-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221201_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-01 12:00:06.821868
+Config  : ./simon.org/private/backups/20221201_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221201_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221129_120011-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221129_120011-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221130_120011-test_com-database.sql.gz is recent
+File ./test.com/private/backups/20221130_120011-test_com-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221201_120006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-01 12:00:09.448851
+Config  : ./test.com/private/backups/20221201_120006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221201_120006-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221202_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-02 12:00:06.731327
+Config  : ./simon.org/private/backups/20221202_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221202_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221201_120006-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221130_120011-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221130_120011-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221201_120006-test_com-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221202_120006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-02 12:00:09.292069
+Config  : ./test.com/private/backups/20221202_120006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221202_120006-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221203_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-03 12:00:11.798401
+Config  : ./simon.org/private/backups/20221203_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221203_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221202_120006-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221201_120006-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221202_120006-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221201_120006-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221203_120012-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-03 12:00:19.115885
+Config  : ./test.com/private/backups/20221203_120012-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221203_120012-test_com-database.sql.gz         1.8MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221205_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-05 12:00:11.692385
+Config  : ./simon.org/private/backups/20221205_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221205_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221203_120012-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221203_120012-test_com-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221205_120011-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-05 12:00:22.726155
+Config  : ./test.com/private/backups/20221205_120011-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221205_120011-test_com-database.sql.gz         21.5MiB
+Backup for Site test.com has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221206_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-06 12:00:10.942477
+Config  : ./simon.org/private/backups/20221206_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221206_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221205_120011-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221205_120011-test_com-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221206_120011-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-06 12:00:19.860632
+Config  : ./test.com/private/backups/20221206_120011-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221206_120011-test_com-database.sql.gz         21.5MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221207_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-07 12:00:08.946721
+Config  : ./simon.org/private/backups/20221207_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221207_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221206_120011-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221205_120011-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221206_120011-test_com-database.sql.gz is recent
+File ./test.com/private/backups/20221205_120011-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221207_120008-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-07 12:00:15.811369
+Config  : ./test.com/private/backups/20221207_120008-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221207_120008-test_com-database.sql.gz         21.5MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221208_120002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-08 12:00:05.225640
+Config  : ./simon.org/private/backups/20221208_120002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221208_120002-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221206_120011-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221207_120008-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221207_120008-test_com-database.sql.gz is recent
+File ./test.com/private/backups/20221206_120011-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221208_120005-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-08 12:00:08.645871
+Config  : ./test.com/private/backups/20221208_120005-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221208_120005-test_com-database.sql.gz         21.5MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221209_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-09 12:00:05.821416
+Config  : ./simon.org/private/backups/20221209_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221209_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221208_120005-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221207_120008-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221207_120008-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221208_120005-test_com-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221209_120005-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-09 12:00:09.342289
+Config  : ./test.com/private/backups/20221209_120005-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221209_120005-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221212_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-12 12:00:06.289363
+Config  : ./simon.org/private/backups/20221212_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221212_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221208_120005-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221209_120005-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221209_120005-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221208_120005-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221212_120006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-12 12:00:10.392491
+Config  : ./test.com/private/backups/20221212_120006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221212_120006-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221213_120002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-13 12:00:05.873320
+Config  : ./simon.org/private/backups/20221213_120002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221213_120002-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221212_120006-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221212_120006-test_com-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221213_120005-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-13 12:00:09.853970
+Config  : ./test.com/private/backups/20221213_120005-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221213_120005-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221214_120004-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-14 12:00:10.935222
+Config  : ./simon.org/private/backups/20221214_120004-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221214_120004-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221212_120006-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221213_120005-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221212_120006-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221213_120005-test_com-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221214_120011-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-14 12:00:21.948995
+Config  : ./test.com/private/backups/20221214_120011-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221214_120011-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221214_180003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-14 18:00:06.233769
+Config  : ./simon.org/private/backups/20221214_180003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221214_180003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221214_120011-test_com-site_config_backup.json is recent
+File ./test.com/private/backups/20221214_120011-test_com-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221214_180006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-14 18:00:10.398966
+Config  : ./test.com/private/backups/20221214_180006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221214_180006-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221216_120003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-16 12:00:06.925669
+Config  : ./simon.org/private/backups/20221216_120003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221216_120003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221214_120011-test_com-site_config_backup.json is older than 24 hours
+File ./test.com/private/backups/20221214_120011-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221214_180006-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221214_180006-test_com-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221216_120006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-16 12:00:11.210713
+Config  : ./test.com/private/backups/20221216_120006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221216_120006-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221219_120002-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-19 12:00:05.994577
+Config  : ./simon.org/private/backups/20221219_120002-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221219_120002-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221216_120006-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221216_120006-test_com-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221219_120006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-19 12:00:10.264690
+Config  : ./test.com/private/backups/20221219_120006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221219_120006-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+mysqldump --single-transaction --quick --lock-tables=false -u _1c1f5bc16aae396e -ppO8RF6VjtS2waaEh _1c1f5bc16aae396e -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./simon.org/private/backups/20221223_000003-simon_org-database.sql.gz
+
+Backup Summary for simon.org at 2022-12-23 00:00:06.461094
+Config  : ./simon.org/private/backups/20221223_000003-simon_org-site_config_backup.json 158.0B
+Database: ./simon.org/private/backups/20221223_000003-simon_org-database.sql.gz         1.8MiB
+Backup for Site simon.org has been successfully completed
+File ./test.com/private/backups/20221219_120006-test_com-database.sql.gz is older than 24 hours
+File ./test.com/private/backups/20221219_120006-test_com-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _5f543afdb6ba8aee -pbtDYz8Ce5fFMHQKW _5f543afdb6ba8aee -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./test.com/private/backups/20221223_000006-test_com-database.sql.gz
+
+Backup Summary for test.com at 2022-12-23 00:00:11.745548
+Config  : ./test.com/private/backups/20221223_000006-test_com-site_config_backup.json 158.0B
+Database: ./test.com/private/backups/20221223_000006-test_com-database.sql.gz         21.8MiB
+Backup for Site test.com has been successfully completed
+Backup failed for Site test1.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+
+Backup failed for Site test2.com. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 433, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 514, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 548, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 85, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 119, in setup_backup_tables
+    existing_doctypes = set([x.name for x in frappe.get_all("DocType")])
+  File "apps/frappe/frappe/__init__.py", line 1474, in get_all
+    return get_list(doctype, *args, **kwargs)
+  File "apps/frappe/frappe/__init__.py", line 1447, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(*args, **kwargs)
+  File "apps/frappe/frappe/model/db_query.py", line 102, in execute
+    self.columns = self.get_table_columns()
+  File "apps/frappe/frappe/model/db_query.py", line 339, in get_table_columns
+    return get_table_columns(self.doctype)
+  File "apps/frappe/frappe/model/meta.py", line 49, in get_table_columns
+    return frappe.db.get_table_columns(doctype)
+  File "apps/frappe/frappe/database/database.py", line 933, in get_table_columns
+    columns = self.get_db_table_columns('tab' + doctype)
+  File "apps/frappe/frappe/database/database.py", line 921, in get_db_table_columns
+    columns = [r[0] for r in self.sql('''
+  File "apps/frappe/frappe/database/database.py", line 121, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 73, in connect
+    self._conn = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 74, in get_connection
+    conn = pymysql.connect(
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8cf2ad13c8563520'@'localhost' (using password: YES)")
+

@@ -1,0 +1,4 @@
+2022-12-08 11:46:01,108 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for test.com
+2022-12-08 11:46:01,300 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for test.com
+2022-12-08 11:46:01,353 INFO scheduler Scheduled Job Start: frappe.utils.change_log.check_for_update for test.com
+2022-12-08 11:46:06,981 INFO scheduler Scheduled Job Complete: frappe.utils.change_log.check_for_update for test.com

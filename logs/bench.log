@@ -1,0 +1,198 @@
+2022-11-20 21:05:05,550 DEBUG cd Simran_Frappe && python3 -m venv env
+2022-11-20 21:05:08,103 DEBUG cd Simran_Frappe && /home/simran/Simran_Frappe/env/bin/python -m pip install --quiet --upgrade pip
+2022-11-20 21:05:13,328 LOG Getting frappe
+2022-11-20 21:05:13,328 DEBUG cd Simran_Frappe/apps && git clone https://github.com/frappe/frappe.git --branch v13.23.0 --depth 1 --origin upstream
+2022-11-20 21:09:43,587 LOG Installing frappe
+2022-11-20 21:09:43,587 DEBUG cd /home/simran/Simran_Frappe && /home/simran/Simran_Frappe/env/bin/python -m pip install --quiet --upgrade -e /home/simran/Simran_Frappe/apps/frappe 
+2022-11-20 21:11:13,696 DEBUG cd /home/simran/Simran_Frappe/apps/frappe && yarn install
+2022-11-20 21:12:12,289 DEBUG cd Simran_Frappe && bench build
+2022-11-20 21:12:12,461 INFO /usr/bin/bench build
+2022-11-20 21:13:33,658 LOG setting up backups
+2022-11-20 21:13:33,668 LOG backups were set up
+2022-11-20 21:13:33,668 INFO Bench Simran_Frappe initialized
+2022-11-20 21:13:58,657 INFO /usr/bin/bench get-app erpnext --branch v13.23.0
+2022-11-20 21:14:04,888 LOG Getting erpnext
+2022-11-20 21:14:04,888 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch v13.23.0 --depth 1 --origin upstream
+2022-11-20 21:19:02,464 LOG Installing erpnext
+2022-11-20 21:19:02,603 DEBUG cd /home/simran/Simran_Frappe && /home/simran/Simran_Frappe/env/bin/python -m pip install --quiet --upgrade -e /home/simran/Simran_Frappe/apps/erpnext 
+2022-11-20 21:35:35,010 DEBUG cd /home/simran/Simran_Frappe/apps/erpnext && yarn install
+2022-11-20 21:35:35,561 DEBUG bench build --app erpnext
+2022-11-20 21:35:35,687 INFO /usr/bin/bench build --app erpnext
+2022-11-20 21:43:50,002 INFO /usr/bin/bench start
+2022-11-20 21:43:50,460 INFO /usr/bin/bench worker --queue long
+2022-11-20 21:43:50,462 INFO /usr/bin/bench worker --queue default
+2022-11-20 21:43:50,480 INFO /usr/bin/bench serve --port 8000
+2022-11-20 21:43:50,480 INFO /usr/bin/bench watch
+2022-11-20 21:43:50,484 INFO /usr/bin/bench schedule
+2022-11-20 21:43:50,494 INFO /usr/bin/bench worker --queue short
+2022-11-21 08:57:15,348 INFO /usr/bin/bench new-site simon.org
+2022-11-21 08:58:35,496 INFO /usr/bin/bench --site simon.org install-app erpnext
+2022-11-21 12:00:01,806 INFO /usr/bin/bench --verbose --site all backup
+2022-11-21 18:00:01,190 INFO /usr/bin/bench --verbose --site all backup
+2022-11-22 06:08:41,322 INFO /usr/bin/bench --site simon.org mariadb
+2022-11-22 12:00:02,007 INFO /usr/bin/bench --verbose --site all backup
+2022-11-22 14:43:02,384 INFO /usr/bin/bench start
+2022-11-22 14:43:03,286 INFO /usr/bin/bench schedule
+2022-11-22 14:43:03,327 INFO /usr/bin/bench serve --port 8000
+2022-11-22 14:43:03,332 INFO /usr/bin/bench watch
+2022-11-22 14:43:03,337 INFO /usr/bin/bench worker --queue short
+2022-11-22 14:43:03,345 INFO /usr/bin/bench worker --queue default
+2022-11-22 14:43:03,360 INFO /usr/bin/bench worker --queue long
+2022-11-22 14:43:37,665 INFO /usr/bin/bench use simon.org
+2022-11-22 14:43:44,478 INFO /usr/bin/bench start
+2022-11-22 14:43:45,401 INFO /usr/bin/bench watch
+2022-11-22 14:43:45,413 INFO /usr/bin/bench schedule
+2022-11-22 14:43:45,413 INFO /usr/bin/bench worker --queue long
+2022-11-22 14:43:45,418 INFO /usr/bin/bench serve --port 8000
+2022-11-22 14:43:45,427 INFO /usr/bin/bench worker --queue short
+2022-11-22 14:43:45,451 INFO /usr/bin/bench worker --queue default
+2022-11-23 06:00:01,838 INFO /usr/bin/bench --verbose --site all backup
+2022-11-23 12:00:02,079 INFO /usr/bin/bench --verbose --site all backup
+2022-11-24 06:00:01,304 INFO /usr/bin/bench --verbose --site all backup
+2022-11-24 12:00:01,795 INFO /usr/bin/bench --verbose --site all backup
+2022-11-24 16:52:58,439 INFO /usr/bin/bench get-app chat
+2022-11-24 16:52:59,155 LOG Getting chat
+2022-11-24 16:52:59,155 DEBUG cd ./apps && git clone https://github.com/frappe/chat.git  --depth 1 --origin upstream
+2022-11-24 16:53:01,529 LOG Installing chat
+2022-11-24 16:53:02,285 DEBUG cd /home/simran/Simran_Frappe && /home/simran/Simran_Frappe/env/bin/python -m pip install --quiet --upgrade -e /home/simran/Simran_Frappe/apps/chat 
+2022-11-24 16:53:03,905 DEBUG bench build --app chat
+2022-11-24 16:53:04,053 INFO /usr/bin/bench build --app chat
+2022-11-24 16:53:20,908 INFO /usr/bin/bench new-site test.com
+2022-11-24 16:54:02,727 INFO /usr/bin/bench --site test.com install-app chat
+2022-11-24 16:54:10,238 INFO /usr/bin/bench --site test.com install-app erpnext
+2022-11-24 16:55:31,153 INFO /usr/bin/bench use test.com
+2022-11-24 16:55:35,131 INFO /usr/bin/bench start
+2022-11-24 16:55:36,017 INFO /usr/bin/bench serve --port 8000
+2022-11-24 16:55:36,027 INFO /usr/bin/bench watch
+2022-11-24 16:55:36,036 INFO /usr/bin/bench schedule
+2022-11-24 16:55:36,036 INFO /usr/bin/bench worker --queue long
+2022-11-24 16:55:36,058 INFO /usr/bin/bench worker --queue short
+2022-11-24 16:55:36,068 INFO /usr/bin/bench worker --queue default
+2022-11-25 12:00:02,156 INFO /usr/bin/bench --verbose --site all backup
+2022-11-27 12:00:01,479 INFO /usr/bin/bench --verbose --site all backup
+2022-11-28 12:00:01,939 INFO /usr/bin/bench --verbose --site all backup
+2022-11-28 18:00:01,947 INFO /usr/bin/bench --verbose --site all backup
+2022-11-29 12:00:01,443 INFO /usr/bin/bench --verbose --site all backup
+2022-11-30 12:00:01,795 INFO /usr/bin/bench --verbose --site all backup
+2022-12-01 12:00:01,811 INFO /usr/bin/bench --verbose --site all backup
+2022-12-02 12:00:01,668 INFO /usr/bin/bench --verbose --site all backup
+2022-12-03 12:00:01,428 INFO /usr/bin/bench --verbose --site all backup
+2022-12-04 15:16:56,389 INFO /usr/bin/bench start
+2022-12-04 15:16:57,022 INFO /usr/bin/bench schedule
+2022-12-04 15:16:57,033 INFO /usr/bin/bench worker --queue long
+2022-12-04 15:16:57,040 INFO /usr/bin/bench watch
+2022-12-04 15:16:57,050 INFO /usr/bin/bench serve --port 8000
+2022-12-04 15:16:57,057 INFO /usr/bin/bench worker --queue default
+2022-12-04 15:16:57,085 INFO /usr/bin/bench worker --queue short
+2022-12-04 15:49:13,792 INFO /usr/bin/bench get-app chat
+2022-12-04 15:49:22,180 INFO A newer version of bench is available: 5.14.4 → 5.15.1
+2022-12-04 15:49:28,941 INFO /usr/bin/bench --site test.com install-app chat
+2022-12-04 15:49:34,640 INFO /usr/bin/bench start
+2022-12-04 15:49:35,103 INFO /usr/bin/bench worker --queue long
+2022-12-04 15:49:35,136 INFO /usr/bin/bench schedule
+2022-12-04 15:49:35,159 INFO /usr/bin/bench serve --port 8000
+2022-12-04 15:49:35,166 INFO /usr/bin/bench worker --queue short
+2022-12-04 15:49:35,167 INFO /usr/bin/bench watch
+2022-12-04 15:49:35,172 INFO /usr/bin/bench worker --queue default
+2022-12-04 16:53:58,543 INFO /usr/bin/bench start
+2022-12-04 16:53:58,952 INFO /usr/bin/bench worker --queue default
+2022-12-04 16:53:59,011 INFO /usr/bin/bench serve --port 8000
+2022-12-04 16:53:59,014 INFO /usr/bin/bench worker --queue long
+2022-12-04 16:53:59,015 INFO /usr/bin/bench watch
+2022-12-04 16:53:59,020 INFO /usr/bin/bench schedule
+2022-12-04 16:53:59,023 INFO /usr/bin/bench worker --queue short
+2022-12-05 12:00:01,552 INFO /usr/bin/bench --verbose --site all backup
+2022-12-05 16:17:57,243 INFO /usr/bin/bench new-site test1.com
+2022-12-05 16:18:04,904 INFO /usr/bin/bench new-site test1.com
+2022-12-05 16:18:09,045 INFO /usr/bin/bench new-site test2.com
+2022-12-06 09:01:54,273 INFO /usr/bin/bench start
+2022-12-06 09:01:54,818 INFO /usr/bin/bench serve --port 8000
+2022-12-06 09:01:54,871 INFO /usr/bin/bench watch
+2022-12-06 09:01:54,871 INFO /usr/bin/bench schedule
+2022-12-06 09:01:54,877 INFO /usr/bin/bench worker --queue default
+2022-12-06 09:01:54,883 INFO /usr/bin/bench worker --queue long
+2022-12-06 09:01:54,893 INFO /usr/bin/bench worker --queue short
+2022-12-06 12:00:02,272 INFO /usr/bin/bench --verbose --site all backup
+2022-12-07 10:36:20,739 INFO /usr/bin/bench start
+2022-12-07 10:36:21,681 INFO /usr/bin/bench serve --port 8000
+2022-12-07 10:36:21,686 INFO /usr/bin/bench watch
+2022-12-07 10:36:21,702 INFO /usr/bin/bench worker --queue long
+2022-12-07 10:36:21,704 INFO /usr/bin/bench worker --queue short
+2022-12-07 10:36:21,705 INFO /usr/bin/bench schedule
+2022-12-07 10:36:21,756 INFO /usr/bin/bench worker --queue default
+2022-12-07 11:53:36,627 INFO /usr/bin/bench start
+2022-12-07 11:54:19,576 INFO /usr/bin/bench start
+2022-12-07 12:00:01,896 INFO /usr/bin/bench --verbose --site all backup
+2022-12-07 12:09:10,676 INFO /usr/bin/bench start
+2022-12-07 12:10:38,792 INFO /usr/bin/bench start
+2022-12-07 12:10:39,782 INFO /usr/bin/bench worker --queue short
+2022-12-07 12:10:39,816 INFO /usr/bin/bench schedule
+2022-12-07 12:10:39,833 INFO /usr/bin/bench watch
+2022-12-07 12:10:39,846 INFO /usr/bin/bench serve --port 8000
+2022-12-07 12:10:39,870 INFO /usr/bin/bench worker --queue default
+2022-12-07 12:10:39,965 INFO /usr/bin/bench worker --queue long
+2022-12-08 11:17:59,972 INFO /usr/bin/bench start
+2022-12-08 11:18:00,737 INFO /usr/bin/bench serve --port 8000
+2022-12-08 11:18:00,855 INFO /usr/bin/bench schedule
+2022-12-08 11:18:00,858 INFO /usr/bin/bench watch
+2022-12-08 11:18:00,863 INFO /usr/bin/bench worker --queue short
+2022-12-08 11:18:00,866 INFO /usr/bin/bench worker --queue long
+2022-12-08 11:18:00,867 INFO /usr/bin/bench worker --queue default
+2022-12-08 11:19:46,272 INFO /usr/bin/bench start
+2022-12-08 11:19:46,893 INFO /usr/bin/bench worker --queue default
+2022-12-08 11:19:46,957 INFO /usr/bin/bench serve --port 8000
+2022-12-08 11:19:46,958 INFO /usr/bin/bench watch
+2022-12-08 11:19:46,960 INFO /usr/bin/bench worker --queue short
+2022-12-08 11:19:46,994 INFO /usr/bin/bench worker --queue long
+2022-12-08 11:19:46,999 INFO /usr/bin/bench schedule
+2022-12-08 12:00:01,556 INFO /usr/bin/bench --verbose --site all backup
+2022-12-08 15:18:26,612 INFO /usr/bin/bench start
+2022-12-08 15:18:27,100 INFO /usr/bin/bench watch
+2022-12-08 15:18:27,101 INFO /usr/bin/bench serve --port 8000
+2022-12-08 15:18:27,117 INFO /usr/bin/bench schedule
+2022-12-08 15:18:27,118 INFO /usr/bin/bench worker --queue default
+2022-12-08 15:18:27,119 INFO /usr/bin/bench worker --queue long
+2022-12-08 15:18:27,124 INFO /usr/bin/bench worker --queue short
+2022-12-09 08:55:09,954 INFO /usr/bin/bench start
+2022-12-09 08:55:10,830 INFO /usr/bin/bench worker --queue short
+2022-12-09 08:55:10,874 INFO /usr/bin/bench serve --port 8000
+2022-12-09 08:55:10,893 INFO /usr/bin/bench schedule
+2022-12-09 08:55:10,901 INFO /usr/bin/bench watch
+2022-12-09 08:55:10,910 INFO /usr/bin/bench worker --queue long
+2022-12-09 08:55:10,918 INFO /usr/bin/bench worker --queue default
+2022-12-09 11:22:54,267 INFO /usr/bin/bench start
+2022-12-09 11:22:55,297 INFO /usr/bin/bench watch
+2022-12-09 11:22:55,304 INFO /usr/bin/bench worker --queue short
+2022-12-09 11:22:55,315 INFO /usr/bin/bench serve --port 8000
+2022-12-09 11:22:55,334 INFO /usr/bin/bench schedule
+2022-12-09 11:22:55,352 INFO /usr/bin/bench worker --queue long
+2022-12-09 11:22:55,359 INFO /usr/bin/bench worker --queue default
+2022-12-09 12:00:01,979 INFO /usr/bin/bench --verbose --site all backup
+2022-12-12 12:00:01,501 INFO /usr/bin/bench --verbose --site all backup
+2022-12-12 15:41:47,079 INFO /usr/bin/bench start
+2022-12-12 15:41:48,292 INFO /usr/bin/bench watch
+2022-12-12 15:41:48,313 INFO /usr/bin/bench serve --port 8000
+2022-12-12 15:41:48,320 INFO /usr/bin/bench schedule
+2022-12-12 15:41:48,333 INFO /usr/bin/bench worker --queue short
+2022-12-12 15:41:48,338 INFO /usr/bin/bench worker --queue long
+2022-12-12 15:41:48,342 INFO /usr/bin/bench worker --queue default
+2022-12-13 12:00:01,491 INFO /usr/bin/bench --verbose --site all backup
+2022-12-13 14:37:16,624 INFO /usr/bin/bench start
+2022-12-13 14:37:17,640 INFO /usr/bin/bench worker --queue long
+2022-12-13 14:37:17,654 INFO /usr/bin/bench serve --port 8000
+2022-12-13 14:37:17,657 INFO /usr/bin/bench schedule
+2022-12-13 14:37:17,667 INFO /usr/bin/bench worker --queue default
+2022-12-13 14:37:17,674 INFO /usr/bin/bench watch
+2022-12-13 14:37:17,677 INFO /usr/bin/bench worker --queue short
+2022-12-14 12:00:01,623 INFO /usr/bin/bench --verbose --site all backup
+2022-12-14 18:00:01,528 INFO /usr/bin/bench --verbose --site all backup
+2022-12-16 12:00:02,041 INFO /usr/bin/bench --verbose --site all backup
+2022-12-19 12:00:01,350 INFO /usr/bin/bench --verbose --site all backup
+2022-12-23 00:00:01,464 INFO /usr/bin/bench --verbose --site all backup
+2022-12-23 00:39:01,313 INFO /usr/bin/bench start
+2022-12-23 00:39:02,198 INFO /usr/bin/bench worker --queue long
+2022-12-23 00:39:02,244 INFO /usr/bin/bench serve --port 8000
+2022-12-23 00:39:02,260 INFO /usr/bin/bench watch
+2022-12-23 00:39:02,266 INFO /usr/bin/bench worker --queue default
+2022-12-23 00:39:02,268 INFO /usr/bin/bench schedule
+2022-12-23 00:39:02,271 INFO /usr/bin/bench worker --queue short

@@ -1,0 +1,769 @@
+2022-12-09 11:29:02,737 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:30:03,314 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for test.com
+2022-12-09 11:30:03,333 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:30:03,715 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for test.com
+2022-12-09 11:30:03,825 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 11:30:04,155 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 11:30:04,251 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 11:30:04,614 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 11:30:04,741 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 11:30:05,060 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 11:31:03,742 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:32:04,339 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:32:04,412 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:32:04,578 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:32:04,680 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:32:04,940 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:32:05,050 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:32:05,280 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:32:05,371 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:32:05,680 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:32:05,773 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:32:05,975 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:32:06,084 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:32:06,301 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:32:06,477 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:32:06,721 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:32:06,812 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:32:07,074 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:32:07,166 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:32:07,453 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:32:07,544 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:32:07,794 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:33:04,994 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:34:05,553 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:35:06,063 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:36:06,566 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:36:06,628 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:36:06,808 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:36:06,903 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:36:07,164 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:36:07,257 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:36:07,486 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:36:07,595 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:36:07,920 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:36:08,015 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:36:08,225 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:36:08,318 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:36:08,527 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:36:08,638 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:36:08,881 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:36:09,014 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:36:09,304 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:36:09,396 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:36:09,669 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:36:09,774 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:36:10,001 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:37:07,122 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:38:07,695 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:39:08,357 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:40:08,818 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:40:08,886 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:40:09,057 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:40:09,172 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:40:09,473 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:40:09,587 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:40:09,863 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:40:09,955 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:40:10,298 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:40:10,390 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:40:10,591 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:40:10,684 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:40:10,885 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:40:10,997 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:40:11,249 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:40:11,360 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:40:11,636 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:40:11,728 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:40:12,008 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:40:12,131 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:40:12,351 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:41:09,338 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:42:09,839 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:43:10,365 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:44:10,821 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:44:10,889 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:44:11,065 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:44:11,168 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:44:11,433 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:44:11,526 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:44:11,754 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:44:11,845 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:44:12,173 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:44:12,274 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:44:12,532 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:44:12,647 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:44:12,876 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:44:12,967 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:44:13,221 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:44:13,313 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:44:13,584 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:44:13,676 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:44:13,974 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:44:14,072 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:44:14,289 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:45:11,339 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:45:11,411 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 11:45:11,703 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 11:45:11,798 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 11:45:12,146 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 11:45:12,263 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 11:45:12,596 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 11:46:11,737 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for simon.org
+2022-12-09 11:46:11,812 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_daily_feedback_reminder for simon.org
+2022-12-09 11:46:12,729 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_daily_feedback_reminder for simon.org
+2022-12-09 11:46:12,959 INFO scheduler Scheduled Job Start: erpnext.non_profit.doctype.membership.membership.set_expired_status for simon.org
+2022-12-09 11:46:13,114 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for simon.org
+2022-12-09 11:46:13,225 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.lead.lead.daily_open_lead for simon.org
+2022-12-09 11:46:13,309 INFO scheduler Scheduled Job Complete: erpnext.non_profit.doctype.membership.membership.set_expired_status for simon.org
+2022-12-09 11:46:13,414 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.process_statement_of_accounts.process_statement_of_accounts.send_auto_email for simon.org
+2022-12-09 11:46:13,772 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.lead.lead.daily_open_lead for simon.org
+2022-12-09 11:46:13,881 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.process_statement_of_accounts.process_statement_of_accounts.send_auto_email for simon.org
+2022-12-09 11:46:13,882 INFO scheduler Scheduled Job Start: erpnext.loan_management.doctype.process_loan_interest_accrual.process_loan_interest_accrual.process_loan_interest_accrual_for_term_loans for simon.org
+2022-12-09 11:46:13,990 INFO scheduler Scheduled Job Start: erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status for simon.org
+2022-12-09 11:46:14,088 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:46:14,291 INFO scheduler Scheduled Job Complete: erpnext.loan_management.doctype.process_loan_interest_accrual.process_loan_interest_accrual.process_loan_interest_accrual_for_term_loans for simon.org
+2022-12-09 11:46:14,397 INFO scheduler Scheduled Job Start: erpnext.loan_management.doctype.process_loan_security_shortfall.process_loan_security_shortfall.create_process_loan_security_shortfall for simon.org
+2022-12-09 11:46:14,398 INFO scheduler Scheduled Job Complete: erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status for simon.org
+2022-12-09 11:46:14,515 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.update_appointment_status for simon.org
+2022-12-09 11:46:14,698 INFO scheduler Scheduled Job Complete: erpnext.loan_management.doctype.process_loan_security_shortfall.process_loan_security_shortfall.create_process_loan_security_shortfall for simon.org
+2022-12-09 11:46:14,796 INFO scheduler Scheduled Job Failed: erpnext.healthcare.doctype.patient_appointment.patient_appointment.update_appointment_status for simon.org
+2022-12-09 11:46:14,800 INFO scheduler Scheduled Job Start: erpnext.hr.utils.allocate_earned_leaves for simon.org
+2022-12-09 11:46:14,902 INFO scheduler Scheduled Job Start: erpnext.selling.doctype.quotation.quotation.set_expired_status for simon.org
+2022-12-09 11:46:15,144 INFO scheduler Scheduled Job Complete: erpnext.hr.utils.allocate_earned_leaves for simon.org
+2022-12-09 11:46:15,248 INFO scheduler Scheduled Job Start: erpnext.hr.utils.generate_leave_encashment for simon.org
+2022-12-09 11:46:15,309 INFO scheduler Scheduled Job Complete: erpnext.selling.doctype.quotation.quotation.set_expired_status for simon.org
+2022-12-09 11:46:15,415 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status for simon.org
+2022-12-09 11:46:15,602 INFO scheduler Scheduled Job Complete: erpnext.hr.utils.generate_leave_encashment for simon.org
+2022-12-09 11:46:15,711 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.process_expired_allocation for simon.org
+2022-12-09 11:46:15,748 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status for simon.org
+2022-12-09 11:46:15,852 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts for simon.org
+2022-12-09 11:46:16,017 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.process_expired_allocation for simon.org
+2022-12-09 11:46:16,121 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool.update_latest_price_in_all_boms for simon.org
+2022-12-09 11:46:16,211 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts for simon.org
+2022-12-09 11:46:16,312 INFO scheduler Scheduled Job Start: erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status for simon.org
+2022-12-09 11:46:16,524 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool.update_latest_price_in_all_boms for simon.org
+2022-12-09 11:46:16,627 INFO scheduler Scheduled Job Start: erpnext.setup.doctype.email_digest.email_digest.send for simon.org
+2022-12-09 11:46:16,656 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status for simon.org
+2022-12-09 11:46:16,754 INFO scheduler Scheduled Job Start: erpnext.quality_management.doctype.quality_review.quality_review.review for simon.org
+2022-12-09 11:46:17,064 INFO scheduler Scheduled Job Complete: erpnext.quality_management.doctype.quality_review.quality_review.review for simon.org
+2022-12-09 11:46:17,156 INFO scheduler Scheduled Job Failed: erpnext.setup.doctype.email_digest.email_digest.send for simon.org
+2022-12-09 11:46:17,164 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.send_project_status_email_to_users for simon.org
+2022-12-09 11:46:17,262 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_drive.google_drive.daily_backup for simon.org
+2022-12-09 11:46:17,559 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.send_project_status_email_to_users for simon.org
+2022-12-09 11:46:17,637 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_drive.google_drive.daily_backup for simon.org
+2022-12-09 11:46:17,662 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.update_project_sales_billing for simon.org
+2022-12-09 11:46:17,737 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for simon.org
+2022-12-09 11:46:18,181 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.update_project_sales_billing for simon.org
+2022-12-09 11:46:18,503 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for simon.org
+2022-12-09 11:46:18,577 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.contract.contract.update_status_for_contracts for simon.org
+2022-12-09 11:46:18,632 INFO scheduler Scheduled Job Start: frappe.utils.change_log.check_for_update for simon.org
+2022-12-09 11:46:18,908 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.contract.contract.update_status_for_contracts for simon.org
+2022-12-09 11:46:19,011 INFO scheduler Scheduled Job Start: erpnext.assets.doctype.asset.asset.make_post_gl_entry for simon.org
+2022-12-09 11:46:19,431 INFO scheduler Scheduled Job Complete: erpnext.assets.doctype.asset.asset.make_post_gl_entry for simon.org
+2022-12-09 11:46:19,528 INFO scheduler Scheduled Job Start: erpnext.assets.doctype.asset.asset.update_maintenance_status for simon.org
+2022-12-09 11:46:19,962 INFO scheduler Scheduled Job Complete: erpnext.assets.doctype.asset.asset.update_maintenance_status for simon.org
+2022-12-09 11:46:20,068 INFO scheduler Scheduled Job Start: erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history for simon.org
+2022-12-09 11:46:20,383 INFO scheduler Scheduled Job Complete: erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history for simon.org
+2022-12-09 11:46:20,488 INFO scheduler Scheduled Job Start: erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards for simon.org
+2022-12-09 11:46:20,755 INFO scheduler Scheduled Job Complete: erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards for simon.org
+2022-12-09 11:46:20,852 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status for simon.org
+2022-12-09 11:46:21,246 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status for simon.org
+2022-12-09 11:46:21,344 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary for simon.org
+2022-12-09 11:46:21,592 INFO scheduler Scheduled Job Complete: frappe.utils.change_log.check_for_update for simon.org
+2022-12-09 11:46:21,650 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary for simon.org
+2022-12-09 11:46:21,695 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily for simon.org
+2022-12-09 11:46:21,751 INFO scheduler Scheduled Job Start: erpnext.assets.doctype.asset.depreciation.post_depreciation_entries for simon.org
+2022-12-09 11:46:22,007 INFO scheduler Scheduled Job Complete: erpnext.assets.doctype.asset.depreciation.post_depreciation_entries for simon.org
+2022-12-09 11:46:22,109 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.task.task.set_tasks_as_overdue for simon.org
+2022-12-09 11:46:22,121 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily for simon.org
+2022-12-09 11:46:22,441 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.task.task.set_tasks_as_overdue for simon.org
+2022-12-09 11:46:22,536 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.employee.employee_reminders.send_birthday_reminders for simon.org
+2022-12-09 11:46:22,819 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.employee.employee_reminders.send_birthday_reminders for simon.org
+2022-12-09 11:46:22,961 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.employee.employee_reminders.send_work_anniversary_reminders for simon.org
+2022-12-09 11:46:23,254 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.employee.employee_reminders.send_work_anniversary_reminders for simon.org
+2022-12-09 11:46:23,351 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year for simon.org
+2022-12-09 11:46:23,619 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year for simon.org
+2022-12-09 11:46:23,755 INFO scheduler Scheduled Job Start: erpnext.controllers.accounts_controller.update_invoice_status for simon.org
+2022-12-09 11:46:24,214 INFO scheduler Scheduled Job Complete: erpnext.controllers.accounts_controller.update_invoice_status for simon.org
+2022-12-09 11:46:24,379 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity for simon.org
+2022-12-09 11:46:24,731 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity for simon.org
+2022-12-09 11:46:24,877 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.auto_close_tickets for simon.org
+2022-12-09 11:46:25,151 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.auto_close_tickets for simon.org
+2022-12-09 11:46:25,315 INFO scheduler Scheduled Job Start: erpnext.stock.reorder_item.reorder_item for simon.org
+2022-12-09 11:46:25,632 INFO scheduler Scheduled Job Complete: erpnext.stock.reorder_item.reorder_item for simon.org
+2022-12-09 11:46:25,728 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for simon.org
+2022-12-09 11:46:26,200 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for simon.org
+2022-12-09 11:46:26,297 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for simon.org
+2022-12-09 11:46:26,627 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for simon.org
+2022-12-09 11:46:26,723 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for simon.org
+2022-12-09 11:46:27,054 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for simon.org
+2022-12-09 11:46:27,149 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for simon.org
+2022-12-09 11:46:27,503 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for simon.org
+2022-12-09 11:46:27,607 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for simon.org
+2022-12-09 11:46:28,016 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for simon.org
+2022-12-09 11:46:28,120 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for simon.org
+2022-12-09 11:46:28,579 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for simon.org
+2022-12-09 11:46:28,676 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for simon.org
+2022-12-09 11:46:29,052 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for simon.org
+2022-12-09 11:46:29,173 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for simon.org
+2022-12-09 11:46:29,511 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for simon.org
+2022-12-09 11:46:29,610 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for simon.org
+2022-12-09 11:46:29,980 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for simon.org
+2022-12-09 11:46:30,099 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for simon.org
+2022-12-09 11:46:30,422 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for simon.org
+2022-12-09 11:46:30,519 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for simon.org
+2022-12-09 11:46:30,803 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for simon.org
+2022-12-09 11:46:30,895 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for simon.org
+2022-12-09 11:46:31,135 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for simon.org
+2022-12-09 11:46:31,242 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for simon.org
+2022-12-09 11:46:31,540 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for simon.org
+2022-12-09 11:46:31,630 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for simon.org
+2022-12-09 11:46:31,952 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for simon.org
+2022-12-09 11:46:32,044 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for simon.org
+2022-12-09 11:46:32,454 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for simon.org
+2022-12-09 11:46:32,578 INFO scheduler Scheduled Job Start: frappe.core.doctype.log_settings.log_settings.run_log_clean_up for simon.org
+2022-12-09 11:46:32,926 INFO scheduler Scheduled Job Complete: frappe.core.doctype.log_settings.log_settings.run_log_clean_up for simon.org
+2022-12-09 11:46:33,079 INFO scheduler Scheduled Job Start: frappe.core.doctype.prepared_report.prepared_report.delete_expired_prepared_reports for simon.org
+2022-12-09 11:46:33,428 INFO scheduler Scheduled Job Complete: frappe.core.doctype.prepared_report.prepared_report.delete_expired_prepared_reports for simon.org
+2022-12-09 11:46:33,570 INFO scheduler Scheduled Job Start: frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails for simon.org
+2022-12-09 11:46:33,833 INFO scheduler Scheduled Job Complete: frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails for simon.org
+2022-12-09 11:46:33,976 INFO scheduler Scheduled Job Start: frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed for simon.org
+2022-12-09 11:46:34,326 INFO scheduler Scheduled Job Complete: frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed for simon.org
+2022-12-09 11:46:34,437 INFO scheduler Scheduled Job Start: frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry for simon.org
+2022-12-09 11:46:34,747 INFO scheduler Scheduled Job Complete: frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry for simon.org
+2022-12-09 11:46:34,842 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_contacts.google_contacts.sync for simon.org
+2022-12-09 11:46:35,247 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_contacts.google_contacts.sync for simon.org
+2022-12-09 11:46:35,365 INFO scheduler Scheduled Job Start: frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points for simon.org
+2022-12-09 11:46:35,644 INFO scheduler Scheduled Job Complete: frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points for simon.org
+2022-12-09 11:46:35,747 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_daily_updates for simon.org
+2022-12-09 11:46:36,068 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_daily_updates for simon.org
+2022-12-09 11:46:36,162 INFO scheduler Scheduled Job Start: frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record for simon.org
+2022-12-09 11:46:36,416 INFO scheduler Scheduled Job Complete: frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record for simon.org
+2022-12-09 11:46:36,553 INFO scheduler Scheduled Job Start: frappe.email.doctype.auto_email_report.auto_email_report.send_daily for simon.org
+2022-12-09 11:46:37,383 INFO scheduler Scheduled Job Complete: frappe.email.doctype.auto_email_report.auto_email_report.send_daily for simon.org
+2022-12-09 11:46:37,561 INFO scheduler Scheduled Job Start: frappe.utils.scheduler.restrict_scheduler_events_if_dormant for simon.org
+2022-12-09 11:46:37,899 INFO scheduler Scheduled Job Failed: frappe.utils.scheduler.restrict_scheduler_events_if_dormant for simon.org
+2022-12-09 11:46:38,029 INFO scheduler Scheduled Job Start: frappe.email.doctype.notification.notification.trigger_daily_alerts for simon.org
+2022-12-09 11:46:38,376 INFO scheduler Scheduled Job Complete: frappe.email.doctype.notification.notification.trigger_daily_alerts for simon.org
+2022-12-09 11:46:38,489 INFO scheduler Scheduled Job Start: frappe.sessions.clear_expired_sessions for simon.org
+2022-12-09 11:46:38,765 INFO scheduler Scheduled Job Complete: frappe.sessions.clear_expired_sessions for simon.org
+2022-12-09 11:46:38,936 INFO scheduler Scheduled Job Start: frappe.desk.doctype.event.event.send_event_digest for simon.org
+2022-12-09 11:46:39,227 INFO scheduler Scheduled Job Complete: frappe.desk.doctype.event.event.send_event_digest for simon.org
+2022-12-09 11:46:39,325 INFO scheduler Scheduled Job Start: frappe.core.doctype.error_log.error_log.set_old_logs_as_seen for simon.org
+2022-12-09 11:46:39,581 INFO scheduler Scheduled Job Complete: frappe.core.doctype.error_log.error_log.set_old_logs_as_seen for simon.org
+2022-12-09 11:46:39,715 INFO scheduler Scheduled Job Start: frappe.desk.notifications.clear_notifications for simon.org
+2022-12-09 11:46:39,987 INFO scheduler Scheduled Job Complete: frappe.desk.notifications.clear_notifications for simon.org
+2022-12-09 11:46:40,103 INFO scheduler Scheduled Job Start: frappe.email.queue.set_expiry_for_email_queue for simon.org
+2022-12-09 11:46:40,386 INFO scheduler Scheduled Job Complete: frappe.email.queue.set_expiry_for_email_queue for simon.org
+2022-12-09 11:46:40,482 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for simon.org
+2022-12-09 11:46:40,860 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for simon.org
+2022-12-09 11:46:40,956 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for simon.org
+2022-12-09 11:46:41,363 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for simon.org
+2022-12-09 11:46:41,521 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for simon.org
+2022-12-09 11:46:41,814 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for simon.org
+2022-12-09 11:46:41,914 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for simon.org
+2022-12-09 11:46:42,167 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for simon.org
+2022-12-09 11:46:42,283 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for simon.org
+2022-12-09 11:46:42,559 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for simon.org
+2022-12-09 11:46:42,654 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for simon.org
+2022-12-09 11:46:42,914 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for simon.org
+2022-12-09 11:46:43,081 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for simon.org
+2022-12-09 11:46:43,343 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for simon.org
+2022-12-09 11:46:43,438 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for simon.org
+2022-12-09 11:46:43,694 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for simon.org
+2022-12-09 11:46:43,827 INFO scheduler Scheduled Job Start: frappe.monitor.flush for simon.org
+2022-12-09 11:46:44,057 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for simon.org
+2022-12-09 11:46:44,204 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for simon.org
+2022-12-09 11:46:44,415 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for simon.org
+2022-12-09 11:46:44,539 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for simon.org
+2022-12-09 11:46:44,853 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for simon.org
+2022-12-09 11:46:44,968 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for simon.org
+2022-12-09 11:46:45,309 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for simon.org
+2022-12-09 11:46:45,466 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for simon.org
+2022-12-09 11:46:45,793 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for simon.org
+2022-12-09 11:46:45,906 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for simon.org
+2022-12-09 11:46:46,144 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for simon.org
+2022-12-09 11:46:46,290 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for simon.org
+2022-12-09 11:46:46,612 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for simon.org
+2022-12-09 11:46:46,749 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for simon.org
+2022-12-09 11:46:47,149 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for simon.org
+2022-12-09 11:46:47,245 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for simon.org
+2022-12-09 11:46:47,605 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for simon.org
+2022-12-09 11:47:14,655 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:48:15,076 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:48:15,138 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:48:15,398 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:48:15,580 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:48:15,831 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:48:15,925 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:48:16,138 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:48:16,231 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:48:16,551 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:48:16,642 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:48:16,842 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:48:16,934 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:48:17,151 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:48:17,246 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:48:17,495 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:48:17,586 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:48:17,867 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:48:17,961 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:48:18,248 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:48:18,364 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:48:18,601 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:49:15,733 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:50:16,259 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:51:16,853 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:52:17,430 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:52:17,499 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:52:17,687 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:52:17,781 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:52:18,034 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:52:18,131 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:52:18,386 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:52:18,499 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:52:18,825 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:52:18,917 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:52:19,140 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:52:19,231 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:52:19,452 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:52:19,546 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:52:19,792 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:52:19,940 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:52:20,214 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:52:20,306 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:52:20,611 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:52:20,704 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:52:20,930 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:53:18,107 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:54:18,685 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:55:19,160 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:56:19,728 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:56:19,805 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:56:19,989 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 11:56:20,090 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:56:20,331 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 11:56:20,444 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:56:20,668 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 11:56:20,760 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:56:21,072 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 11:56:21,164 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 11:56:21,365 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 11:56:21,456 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:56:21,659 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 11:56:21,750 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:56:21,984 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 11:56:22,084 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:56:22,368 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 11:56:22,478 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:56:22,761 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 11:56:22,852 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 11:56:23,058 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 11:57:20,068 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:58:20,315 DEBUG scheduler Access denied for site test1.com
+2022-12-09 11:59:20,567 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:00:20,777 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for test.com
+2022-12-09 12:00:20,853 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for test.com
+2022-12-09 12:00:21,058 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:00:21,094 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for test.com
+2022-12-09 12:00:21,170 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for test.com
+2022-12-09 12:00:21,227 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for test.com
+2022-12-09 12:00:21,384 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for test.com
+2022-12-09 12:00:21,438 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for test.com
+2022-12-09 12:00:21,607 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for test.com
+2022-12-09 12:00:21,659 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for test.com
+2022-12-09 12:00:21,846 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for test.com
+2022-12-09 12:00:21,900 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for test.com
+2022-12-09 12:00:22,089 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for test.com
+2022-12-09 12:00:22,144 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for test.com
+2022-12-09 12:00:22,355 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for test.com
+2022-12-09 12:00:22,409 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for test.com
+2022-12-09 12:00:22,578 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for test.com
+2022-12-09 12:00:22,632 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for test.com
+2022-12-09 12:00:22,774 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for test.com
+2022-12-09 12:00:22,830 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for test.com
+2022-12-09 12:00:23,037 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for test.com
+2022-12-09 12:00:23,090 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for test.com
+2022-12-09 12:00:23,228 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for test.com
+2022-12-09 12:00:23,281 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:00:23,399 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:00:23,450 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:00:23,577 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:00:23,629 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:00:23,745 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:00:23,795 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:00:23,971 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:00:24,020 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for test.com
+2022-12-09 12:00:24,269 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for test.com
+2022-12-09 12:00:24,335 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for test.com
+2022-12-09 12:00:24,524 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for test.com
+2022-12-09 12:00:24,579 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for test.com
+2022-12-09 12:00:24,774 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for test.com
+2022-12-09 12:00:24,827 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for test.com
+2022-12-09 12:00:24,989 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for test.com
+2022-12-09 12:00:25,042 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for test.com
+2022-12-09 12:00:25,182 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for test.com
+2022-12-09 12:00:25,243 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for test.com
+2022-12-09 12:00:25,393 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for test.com
+2022-12-09 12:00:25,457 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for test.com
+2022-12-09 12:00:25,613 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for test.com
+2022-12-09 12:00:25,707 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for test.com
+2022-12-09 12:00:25,845 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for test.com
+2022-12-09 12:00:25,905 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for test.com
+2022-12-09 12:00:26,048 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for test.com
+2022-12-09 12:00:26,110 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:00:26,218 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:00:26,268 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:00:26,371 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:00:26,423 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:00:26,559 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:00:26,609 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:00:26,750 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:00:26,799 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:00:26,944 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:00:26,995 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:00:27,109 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:00:27,160 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:00:27,326 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:00:27,379 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:00:27,563 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:00:27,617 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:00:27,816 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:01:21,303 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:02:21,541 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:03:21,771 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:04:22,028 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:04:22,056 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:04:22,170 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:04:22,221 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:04:22,349 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:04:22,400 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:04:22,510 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:04:22,561 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:04:22,718 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:04:22,771 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:04:22,881 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:04:22,931 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:04:23,040 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:04:23,098 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:04:23,226 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:04:23,278 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:04:23,420 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:04:23,473 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:04:23,618 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:04:23,670 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:04:23,793 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:05:22,315 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:06:22,555 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:07:22,797 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:08:23,055 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:08:23,091 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:08:23,197 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:08:23,254 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:08:23,405 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:08:23,464 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:08:23,599 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:08:23,660 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:08:23,849 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:08:23,908 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:08:24,032 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:08:24,096 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:08:24,205 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:08:24,255 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:08:24,393 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:08:24,444 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:08:24,592 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:08:24,648 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:08:24,830 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:08:24,888 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:08:25,011 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:09:23,330 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:10:23,557 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:11:23,805 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:12:24,056 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:12:24,088 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:12:24,195 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:12:24,248 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:12:24,389 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:12:24,441 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:12:24,554 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:12:24,604 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:12:24,784 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:12:24,835 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:12:24,945 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:12:25,003 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:12:25,112 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:12:25,176 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:12:25,303 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:12:25,354 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:12:25,495 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:12:25,545 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:12:25,690 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:12:25,741 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:12:25,857 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:13:24,334 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:14:24,565 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:15:24,813 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:15:24,851 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:15:25,005 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:15:25,058 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:15:25,246 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:15:25,304 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:15:25,465 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:16:25,070 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:16:25,106 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:16:25,259 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:16:25,317 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:16:25,447 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:16:25,500 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:16:25,616 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:16:25,666 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:16:25,845 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:16:25,896 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:16:26,006 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:16:26,058 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:16:26,166 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:16:26,225 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:16:26,342 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:16:26,392 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:16:26,534 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:16:26,584 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:16:26,732 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:16:26,782 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:16:26,899 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:17:25,349 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:18:25,600 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:19:25,854 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:20:26,112 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:20:26,143 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:20:26,242 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:20:26,293 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:20:26,434 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:20:26,485 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:20:26,592 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:20:26,642 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:20:26,812 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:20:26,863 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:20:26,971 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:20:27,032 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:20:27,140 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:20:27,193 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:20:27,319 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:20:27,370 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:20:27,523 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:20:27,575 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:20:27,723 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:20:27,775 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:20:27,891 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:21:26,382 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:22:26,623 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:23:27,033 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:24:27,302 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:24:27,333 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:24:27,485 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:24:27,547 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:24:27,675 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:24:27,725 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:24:27,832 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:24:27,884 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:24:28,049 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:24:28,100 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:24:28,209 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:24:28,262 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:24:28,373 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:24:28,438 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:24:28,579 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:24:28,630 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:24:28,770 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:24:28,821 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:24:28,977 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:24:29,028 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:24:29,141 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:25:27,561 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:26:27,811 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:27:28,046 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:28:28,297 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:28:28,329 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:28:28,448 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:28:28,499 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:28:28,637 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:28:28,688 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:28:28,814 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:28:28,870 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:28:29,034 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:28:29,085 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:28:29,194 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:28:29,261 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:28:29,371 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:28:29,421 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:28:29,561 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:28:29,612 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:28:29,762 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:28:29,814 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:28:29,961 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:28:30,015 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:28:30,124 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:29:28,575 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:30:28,825 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for test.com
+2022-12-09 12:30:28,838 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:30:29,023 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for test.com
+2022-12-09 12:30:29,077 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:30:29,234 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:30:29,291 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:30:29,494 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:30:29,547 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:30:29,722 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:31:29,087 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:32:29,338 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:32:29,371 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:32:29,473 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:32:29,524 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:32:29,653 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:32:29,704 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:32:29,818 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:32:29,867 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:32:30,047 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:32:30,097 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:32:30,206 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:32:30,256 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:32:30,358 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:32:30,409 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:32:30,535 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:32:30,586 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:32:30,739 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:32:30,791 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:32:30,940 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:32:30,990 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:32:31,113 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:33:29,628 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:34:29,866 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:35:30,115 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:36:30,362 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:36:30,398 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:36:30,566 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:36:30,618 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:36:30,763 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:36:30,813 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:36:30,937 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:36:30,991 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:36:31,158 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:36:31,209 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:36:31,318 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:36:31,369 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:36:31,478 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:36:31,543 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:36:31,670 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:36:31,720 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:36:31,863 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:36:31,915 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:36:32,062 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:36:32,112 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:36:32,229 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:37:30,633 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:38:30,899 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:39:31,107 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:40:31,348 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:40:31,387 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:40:31,474 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:40:31,527 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:40:31,668 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:40:31,719 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:40:31,835 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:40:31,885 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:40:32,051 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:40:32,100 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:40:32,210 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:40:32,270 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:40:32,377 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:40:32,426 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:40:32,551 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:40:32,602 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:40:32,742 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:40:32,792 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:40:32,930 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:40:32,981 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:40:33,103 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:41:31,647 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:42:31,887 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:43:32,131 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:44:32,374 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:44:32,402 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:44:32,554 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:44:32,617 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:44:32,760 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:44:32,809 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:44:32,923 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:44:32,974 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:44:33,139 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:44:33,190 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:44:33,298 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:44:33,348 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:44:33,456 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:44:33,508 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:44:33,637 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:44:33,688 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:44:33,827 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:44:33,876 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:44:34,023 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:44:34,073 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:44:34,182 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:45:32,657 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:45:32,694 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:45:32,849 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for test.com
+2022-12-09 12:45:32,904 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:45:33,117 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for test.com
+2022-12-09 12:45:33,170 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:45:33,343 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for test.com
+2022-12-09 12:46:32,903 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:47:33,160 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:48:33,422 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:48:33,450 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:48:33,630 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:48:33,681 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:48:33,820 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:48:33,870 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:48:33,994 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:48:34,048 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:48:34,230 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:48:34,281 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:48:34,393 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:48:34,447 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:48:34,558 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:48:34,607 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:48:34,734 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:48:34,784 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:48:34,922 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:48:34,973 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:48:35,119 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:48:35,168 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:48:35,294 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:49:33,689 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:50:33,942 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:51:34,195 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:52:34,448 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:52:34,488 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:52:34,654 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:52:34,707 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:52:34,837 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for test.com
+2022-12-09 12:52:34,888 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:52:35,014 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for test.com
+2022-12-09 12:52:35,067 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:52:35,232 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for test.com
+2022-12-09 12:52:35,282 INFO scheduler Scheduled Job Start: frappe.monitor.flush for test.com
+2022-12-09 12:52:35,389 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for test.com
+2022-12-09 12:52:35,448 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:52:35,557 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for test.com
+2022-12-09 12:52:35,617 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:52:35,735 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for test.com
+2022-12-09 12:52:35,784 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:52:35,923 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for test.com
+2022-12-09 12:52:35,971 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:52:36,127 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for test.com
+2022-12-09 12:52:36,177 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for test.com
+2022-12-09 12:52:36,292 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for test.com
+2022-12-09 12:53:34,746 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:54:34,990 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:55:35,272 DEBUG scheduler Access denied for site test1.com
+2022-12-09 12:56:35,524 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for test.com
+2022-12-09 12:56:35,565 DEBUG scheduler Access denied for site test1.com

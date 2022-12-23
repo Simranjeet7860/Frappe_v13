@@ -1,0 +1,186 @@
+2022-12-08 15:34:18,689 ERROR frappe New Exception collected with id: 2022-12-08 15:34:18.599698-127.0.0.1-e40
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:21,458 ERROR frappe New Exception collected with id: 2022-12-08 15:34:21.456651-127.0.0.1-087
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:22,331 ERROR frappe New Exception collected with id: 2022-12-08 15:34:22.329304-127.0.0.1-333
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:22,503 ERROR frappe New Exception collected with id: 2022-12-08 15:34:22.501167-127.0.0.1-354
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:22,832 ERROR frappe New Exception collected with id: 2022-12-08 15:34:22.831328-127.0.0.1-ac0
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:23,043 ERROR frappe New Exception collected with id: 2022-12-08 15:34:23.041753-127.0.0.1-ce1
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:23,262 ERROR frappe New Exception collected with id: 2022-12-08 15:34:23.260076-127.0.0.1-fd3
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:23,392 ERROR frappe New Exception collected with id: 2022-12-08 15:34:23.389804-127.0.0.1-706
+Site: test.com
+Form Dict: {'email': 'si@mm.n', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:29,998 ERROR frappe New Exception collected with id: 2022-12-08 15:34:29.996939-127.0.0.1-d49
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl;', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:35,002 ERROR frappe New Exception collected with id: 2022-12-08 15:34:35.000152-127.0.0.1-a86
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:35,616 ERROR frappe New Exception collected with id: 2022-12-08 15:34:35.614545-127.0.0.1-228
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:35,804 ERROR frappe New Exception collected with id: 2022-12-08 15:34:35.801876-127.0.0.1-7ff
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:36,027 ERROR frappe New Exception collected with id: 2022-12-08 15:34:36.025064-127.0.0.1-ef9
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:36,227 ERROR frappe New Exception collected with id: 2022-12-08 15:34:36.221095-127.0.0.1-5c7
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:36,562 ERROR frappe New Exception collected with id: 2022-12-08 15:34:36.560870-127.0.0.1-999
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:36,903 ERROR frappe New Exception collected with id: 2022-12-08 15:34:36.900516-127.0.0.1-61c
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:37,088 ERROR frappe New Exception collected with id: 2022-12-08 15:34:37.085347-127.0.0.1-9f2
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:37,538 ERROR frappe New Exception collected with id: 2022-12-08 15:34:37.536697-127.0.0.1-fc6
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:37,837 ERROR frappe New Exception collected with id: 2022-12-08 15:34:37.834410-127.0.0.1-645
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:38,012 ERROR frappe New Exception collected with id: 2022-12-08 15:34:38.009342-127.0.0.1-53e
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:38,189 ERROR frappe New Exception collected with id: 2022-12-08 15:34:38.186676-127.0.0.1-d36
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:38,377 ERROR frappe New Exception collected with id: 2022-12-08 15:34:38.375277-127.0.0.1-60f
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:34:43,263 ERROR frappe New Exception collected with id: 2022-12-08 15:34:43.262194-127.0.0.1-1a4
+Site: test.com
+Form Dict: {'email': 'si@mm.net', 'full_name': 'ghjkl', 'message': 'yhjkl\n', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:03,388 ERROR frappe New Exception collected with id: 2022-12-08 15:35:03.386327-127.0.0.1-464
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:04,766 ERROR frappe New Exception collected with id: 2022-12-08 15:35:04.763274-127.0.0.1-7f7
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:04,999 ERROR frappe New Exception collected with id: 2022-12-08 15:35:04.997770-127.0.0.1-b85
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:05,172 ERROR frappe New Exception collected with id: 2022-12-08 15:35:05.169886-127.0.0.1-7de
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:05,358 ERROR frappe New Exception collected with id: 2022-12-08 15:35:05.354980-127.0.0.1-9e9
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:05,565 ERROR frappe New Exception collected with id: 2022-12-08 15:35:05.562980-127.0.0.1-c1e
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:05,974 ERROR frappe New Exception collected with id: 2022-12-08 15:35:05.973095-127.0.0.1-338
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:08,806 ERROR frappe New Exception collected with id: 2022-12-08 15:35:08.804889-127.0.0.1-f32
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:09,440 ERROR frappe New Exception collected with id: 2022-12-08 15:35:09.437681-127.0.0.1-66d
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:10,142 ERROR frappe New Exception collected with id: 2022-12-08 15:35:10.140664-127.0.0.1-210
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:10,766 ERROR frappe New Exception collected with id: 2022-12-08 15:35:10.765171-127.0.0.1-e7e
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:11,265 ERROR frappe New Exception collected with id: 2022-12-08 15:35:11.263720-127.0.0.1-5b8
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:11,492 ERROR frappe New Exception collected with id: 2022-12-08 15:35:11.490349-127.0.0.1-63b
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:11,662 ERROR frappe New Exception collected with id: 2022-12-08 15:35:11.659332-127.0.0.1-720
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:11,854 ERROR frappe New Exception collected with id: 2022-12-08 15:35:11.851155-127.0.0.1-332
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:11,977 ERROR frappe New Exception collected with id: 2022-12-08 15:35:11.976244-127.0.0.1-775
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:12,155 ERROR frappe New Exception collected with id: 2022-12-08 15:35:12.153631-127.0.0.1-1c1
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-08 15:35:12,357 ERROR frappe New Exception collected with id: 2022-12-08 15:35:12.355626-127.0.0.1-ed3
+Site: test.com
+Form Dict: {'email': 'skmk@gmail.com', 'full_name': 'Sinon', 'message': 'Hkkw', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:24,486 ERROR frappe New Exception collected with id: 2022-12-09 08:56:24.360698-127.0.0.1-5e9
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:27,072 ERROR frappe New Exception collected with id: 2022-12-09 08:56:27.070445-127.0.0.1-00b
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:27,717 ERROR frappe New Exception collected with id: 2022-12-09 08:56:27.707721-127.0.0.1-4db
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:28,027 ERROR frappe New Exception collected with id: 2022-12-09 08:56:28.023906-127.0.0.1-08d
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:28,241 ERROR frappe New Exception collected with id: 2022-12-09 08:56:28.238694-127.0.0.1-a25
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:28,594 ERROR frappe New Exception collected with id: 2022-12-09 08:56:28.591152-127.0.0.1-4f5
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:28,991 ERROR frappe New Exception collected with id: 2022-12-09 08:56:28.987074-127.0.0.1-069
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:29,204 ERROR frappe New Exception collected with id: 2022-12-09 08:56:29.202294-127.0.0.1-bb2
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:29,424 ERROR frappe New Exception collected with id: 2022-12-09 08:56:29.420226-127.0.0.1-06c
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:29,610 ERROR frappe New Exception collected with id: 2022-12-09 08:56:29.605385-127.0.0.1-83d
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:29,806 ERROR frappe New Exception collected with id: 2022-12-09 08:56:29.803449-127.0.0.1-8bc
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:29,988 ERROR frappe New Exception collected with id: 2022-12-09 08:56:29.986283-127.0.0.1-b45
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:30,183 ERROR frappe New Exception collected with id: 2022-12-09 08:56:30.180216-127.0.0.1-07b
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:30,392 ERROR frappe New Exception collected with id: 2022-12-09 08:56:30.383561-127.0.0.1-bea
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:30,586 ERROR frappe New Exception collected with id: 2022-12-09 08:56:30.581144-127.0.0.1-993
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:56:30,743 ERROR frappe New Exception collected with id: 2022-12-09 08:56:30.740237-127.0.0.1-b08
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:57:01,464 ERROR frappe New Exception collected with id: 2022-12-09 08:57:01.456588-127.0.0.1-59f
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:57:01,814 ERROR frappe New Exception collected with id: 2022-12-09 08:57:01.807485-127.0.0.1-415
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:57:02,062 ERROR frappe New Exception collected with id: 2022-12-09 08:57:02.055335-127.0.0.1-837
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:57:02,366 ERROR frappe New Exception collected with id: 2022-12-09 08:57:02.360058-127.0.0.1-34b
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
+2022-12-09 08:57:02,618 ERROR frappe New Exception collected with id: 2022-12-09 08:57:02.611844-127.0.0.1-3d4
+Site: test.com
+Form Dict: {'email': 'simon@gme.net', 'full_name': 'Simon', 'message': 'Hello Sir.', 'cmd': 'chat.api.user.get_guest_room'}
